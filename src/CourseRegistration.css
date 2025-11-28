@@ -1,0 +1,28 @@
+.course-registration {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.course-registration h2 {
+  color: #333;
+}
+
+.course-registration input,
+.course-registration select {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.course-registration button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.course-registration button:hover {
+  background-color: #0056b3;
+}

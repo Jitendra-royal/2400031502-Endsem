@@ -1,0 +1,21 @@
+.event-calendar {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.event-calendar h2 {
+  color: #333;
+}
+
+.event-calendar table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.event-calendar th,
+.event-calendar td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
